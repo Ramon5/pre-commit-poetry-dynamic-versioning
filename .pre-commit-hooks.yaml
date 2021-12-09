@@ -1,0 +1,5 @@
+- id: dynamic-versioning
+  name: Apply semantic version to library according branch commits
+  description: Bump version according to branch.
+  language: system
+  entry: poetry-dynamic-versioning
